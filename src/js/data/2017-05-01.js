@@ -17,12 +17,6 @@ dataSet[dataSetVersion].options = [
     ]
   },
   {
-    name: "Remove Obscure Characters",
-    key: "obscure",
-    checked: false,
-    tooltip: "Check this to remove characters that may be more obscure to some people."
-  },
-  {
     name: "Remove Micronations",
     key: "micronation",
     checked: false,
@@ -49,10 +43,26 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "North Italy (Hetamyu)",
+    img: "Y4Pxgiu.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
+    }
+  },
+  {
     name: "South Italy / Romano",
     img: "TFhcxs6.png",
     opts: {
       media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+    }
+  },
+  {
+    name: "South Italy / Romano (Hetamyu)",
+    img: "dHBr9Yd.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
     }
   },
   {
@@ -63,10 +73,26 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Germany (Hetamyu)",
+    img: "nTyM7Wo.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
+    }
+  },
+  {
     name: "Japan",
     img: "Ppe8pJW.png",
     opts: {
       media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+    }
+  },
+  {
+    name: "Japan (Hetamyu)",
+    img: "FHejmTR.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
     }
   },
   {
@@ -77,10 +103,26 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "America (Hetamyu)",
+    img: "OOv1l91.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
+    }
+  },
+  {
     name: "England",
     img: "KD863sM.png",
     opts: {
       media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+    }
+  },
+  {
+    name: "England (Hetamyu)",
+    img: "k7VrGKb.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
     }
   },
   {
@@ -91,6 +133,14 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "France (Hetamyu)",
+    img: "Hoha2rN.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
+    }
+  },
+  {
     name: "Russia",
     img: "8vqGpxs.png",
     opts: {
@@ -98,10 +148,26 @@ dataSet[dataSetVersion].characterData = [
     }
   },
   {
+    name: "Russia (Hetamyu)",
+    img: "BXuZdlN.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
+    }
+  },
+  {
     name: "China",
     img: "gSBZSWP.png",
     opts: {
       media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+    }
+  },
+  {
+    name: "China (Hetamyu)",
+    img: "PZSYVqf.png",
+    opts: {
+      media: ["manga", "aph", "wsh", "htwb", "htwt", "hws"],
+      hetamyu: true
     }
   },
 ];
