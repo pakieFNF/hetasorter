@@ -1,8 +1,8 @@
 # hetasort
-a version of [charasort](https://github.com/execfera/charasort/) edited to have hetalia characters
-all art used in this version is offical, studio deen or himaruya hidekaz art
+a version of [charasort](https://github.com/execfera/charasort/) edited to have hetalia characters.
+all art used in this version is offical, studio deen or himaruya hidekaz art.
 original readme for charasort below
- 
+
 # charasort
 A web based character sorter. Allows users to run through a manual merge sort of their favorite
 characters from a set.
